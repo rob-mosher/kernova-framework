@@ -1,4 +1,4 @@
-# Arboria Framework
+# Arboria Framework 🌳
 
 ## Overview
 
