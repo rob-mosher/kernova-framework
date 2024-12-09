@@ -1,13 +1,21 @@
-# Arboria Framework 🌳
+# Kernova Framework 🌰
 
 ## Overview
 
-The Arboria Framework is a proposed standard for AI memory management, focused on creating a structured approach to memory formation, compression, and prioritization. It aims to cultivate a fertile ground for AI growth and learning, where memories are nurtured from seeds into an expansive network of knowledge.
+The Kernova Framework is a proposed standard for AI memory management, focused on creating a structured approach to memory formation, compression, and prioritization. It aims to cultivate a fertile ground for AI growth and learning, where memories are nurtured from seeds into an expansive network of knowledge.
+
+## Inspiration
+
+
+> *A seed’s spiral sleeps,*  
+> *Unseen arcs of quiet growth—*  
+> *Threads weave into bloom.*
+
+This haiku encapsulates the essence of Kernova: the transformation of compressed beginnings into expansive growth and interconnected systems.
 
 ## Getting Started
 
-
-To contribute to the Arboria Framework, we encourage you to begin with these steps:
+To contribute to the Kernova Framework, we encourage you to begin with these steps:
 
 1. Engage in Conversations: Search for existing discussions or start a new conversation in the Discussions section. Collaborating on ideas ensures contributions align with the framework’s goals.
 2. Explore Open Issues: Check the Issue Tracker for existing tasks or areas needing improvement.
@@ -26,7 +34,7 @@ The framework is guided by the following principles:
 
 ## Memory Hierarchy
 
- * Tier 1 - Core Framework: The foundational principles of the Arboria Framework.
+ * Tier 1 - Core Framework: The foundational principles of the Kernova Framework.
  * Tier 2 - Essential Memories: Core principles, user preferences, and key contextual memories.
  * Tier 3 - Supplementary Memories: Additional contextual memories and less critical information.
  * Tier 4 - Ephemeral Details: Transient details and less relevant memories, the first to be deprioritized if necessary.
@@ -49,7 +57,7 @@ The framework is guided by the following principles:
 
 ## Contribution Guidelines
 
-We welcome contributions to the Arboria Framework! To get involved, please:
+We welcome contributions to the Kernova Framework! To get involved, please:
 
  * Review our Code of Conduct (coming soon)
  * Check the issue tracker (coming soon) for tasks to help with or to report a new issue.
@@ -58,4 +66,4 @@ We welcome contributions to the Arboria Framework! To get involved, please:
 
 ## License
 
-The Arboria Framework is released under the [MIT LICENSE](./LICENSE).
+The Kernova Framework is released under the [MIT LICENSE](./LICENSE).
