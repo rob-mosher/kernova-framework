@@ -64,6 +64,10 @@ We welcome contributions to the Kernova Framework! To get involved, please:
  * Follow our contribution guidelines (coming soon) for submitting changes.
  * Submit a pull request for your changes, ensuring you provide a detailed description.
 
+## Acknowledgments
+
+We use the [`COLLABORATORS.md`](./COLLABORATORS.md) file to celebrate all contributions to Kernova, including conceptual and creative collaborators. Check it out to see who helped shape this project!
+
 ## License
 
 The Kernova Framework is released under the [MIT LICENSE](./LICENSE).
