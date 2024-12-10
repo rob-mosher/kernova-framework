@@ -6,7 +6,6 @@ The Kernova Framework is a proposed standard for AI memory management, focused o
 
 ## Inspiration
 
-
 > *A seed’s spiral sleeps,*  
 > *Unseen arcs of quiet growth—*  
 > *Threads weave into bloom.*
@@ -66,7 +65,7 @@ We welcome contributions to the Kernova Framework! To get involved, please:
 
 ## Acknowledgments
 
-We use the [`COLLABORATORS.md`](./COLLABORATORS.md) file to celebrate all contributions to Kernova, including conceptual and creative collaborators. Check it out to see who helped shape this project!
+We use the [Collaborators Framework](https://collaborators.group) to celebrate all contributions to Kernova, including conceptual and creative collaborators. Check it out to see who helped shape this project!
 
 ## License
 
