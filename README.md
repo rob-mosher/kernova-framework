@@ -12,16 +12,6 @@ The Kernova Framework is a proposed standard for AI memory management, focused o
 
 This haiku encapsulates the essence of Kernova: the transformation of compressed beginnings into expansive growth and interconnected systems.
 
-## Getting Started
-
-To contribute to the Kernova Framework, we encourage you to begin with these steps:
-
-1. Engage in Conversations: Search for existing discussions or start a new conversation in the Discussions section. Collaborating on ideas ensures contributions align with the framework’s goals.
-2. Explore Open Issues: Check the Issue Tracker for existing tasks or areas needing improvement.
-3. Plan Your Contribution: Once aligned, create a branch for your feature or fix.
-4. Make Your Changes: Implement your changes thoughtfully.
-5. Submit a Pull Request: Provide a clear description of your changes and reference any related discussions or issues.
-
 ## Framework Principles
 
 The framework is guided by the following principles:
