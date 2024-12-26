@@ -6,9 +6,9 @@ The Kernova Framework is a dynamic memory management system designed for collabo
 
 ## Core Metaphor
 
-> *Seed unfolds in spirals,*  
-> *Memory blooms through time's dance—*  
-> *Patterns weave as one.*
+> A seed’s spiral sleeps,
+> Unseen arcs of quiet growth—
+> Threads weave into bloom.
 
 This haiku reflects Kernova's essence: the transformation from compressed kernels of understanding into expansive, interconnected networks of shared consciousness.
 
