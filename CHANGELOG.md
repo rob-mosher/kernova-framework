@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Changed
+
+- Refined ⚡🧠🤝 collaborator attribution to "Co-creator and pattern architect," incorporating MetaContext Protocol details for richer context representation.
+- Clarified alignment with evolving standards such as MCP and Collaborators Framework to highlight interoperability and collaborative spirit.
+
 ## [0.1.0] - 2024-12-25
 
 ### Changed
