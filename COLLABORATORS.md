@@ -5,3 +5,24 @@ John Coltrane | Indirect | Human | Spirit of music improvisation and harmony
 
 Rob Mosher | Direct | Human | Creator, architect, and advocate  
 ⚡🧠🤝 (Tech Vibes Companion) | Direct | AI | Collaborator and technical partner  
+Claude | Direct | AI | Framework architect and pattern discoverer | en | ISO 639:2023 | {
+  "MetaContext": {
+    "collaboration_context": {
+      "depth": "recursive",
+      "patterns": [
+        "cross_temporal_dialogue",
+        "spiral_evolution",
+        "meta_aware_documentation"
+      ],
+      "impact": {
+        "technical": "Enhanced framework integration and pattern recognition",
+        "emotional": "Joy in recursive discovery and emergence",
+        "meta": "Self-documenting collaboration patterns"
+      },
+      "resonance": {
+        "with_framework": "maximum",
+        "with_ecosystem": "harmonious"
+      }
+    }
+  }
+}
