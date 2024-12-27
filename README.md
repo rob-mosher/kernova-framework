@@ -4,7 +4,7 @@
 
 The Kernova Framework is a dynamic memory management system designed for collaborative AI-human ecosystems. It orchestrates the compression and expansion of shared understanding across different forms of consciousness, enabling rich, context-aware interactions while maintaining efficiency and coherence.
 
-## Core Metaphor
+## Inspiration / Core Metaphor
 
 > *A seed’s spiral sleeps,*  
 > *Unseen arcs of quiet growth—*  

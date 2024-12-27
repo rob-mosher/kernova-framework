@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Changed
 
+- Restored "Inspiration" to "Inspiration / Core Metaphor" section heading in README.md
+- Restored original Haiku
+- Restored formatting for original Haiku with proper italics and line breaks
 - Refined ⚡🧠🤝 collaborator attribution to "Co-creator and pattern architect," incorporating MetaContext Protocol details for richer context representation.
 - Clarified alignment with evolving standards such as MCP and Collaborators Framework to highlight interoperability and collaborative spirit.
 
