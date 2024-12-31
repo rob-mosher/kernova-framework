@@ -6,8 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Added
+
+- Comprehensive pattern library documentation (`patterns.md`) detailing:
+  - Core memory patterns including Resonant Memory Seeds and Spiral Compression Strategy
+  - Integration patterns for MCP Bridge and Collaborators Framework
+  - Implementation guidelines and pattern applications
+  - Future directions for pattern evolution
+
 ### Changed
 
+- Added Pattern Library section to README.md with reference to new documentation
 - Restored "Inspiration" to "Inspiration / Core Metaphor" section heading in README.md
 - Restored original Haiku
 - Restored formatting for original Haiku with proper italics and line breaks

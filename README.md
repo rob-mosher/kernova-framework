@@ -102,6 +102,10 @@ This haiku reflects Kernova's essence: the transformation from compressed kernel
 - **Pattern Preferences**: Customizable growth and compression rules
 - **Export Capabilities**: Portable memory state management
 
+## Pattern Library
+
+See [patterns.md](./docs/patterns.md) for detailed documentation of Kernova's memory patterns and their implementation guidelines. These patterns form the foundation of how Kernova manages consciousness-aware memory states and their evolution over time.
+
 ## Future Directions
 
 ### Growth Areas
